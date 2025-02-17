@@ -18,3 +18,10 @@ writing emails, etc. Through this process, some of the leads get converted while
 
 1. To identify the features that contributes to predict Lead Conversion.
 1. Identifying Hot Leads by generating Lead Score for all leads, so that leads having higher Lead Scores can be contacted with priority for achieving Higher Lead Conversion Rate.
+
+This GIT repo contains:
+
+Python commented file
+1 PDF: Answer to all the questions asked by the company in the word document provided. 
+1 PDF: To present the analysis.
+1 PDF: The summary report.
